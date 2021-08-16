@@ -79,7 +79,7 @@ export default function dashboard() {
       event.preventDefault();
 
       if (!username) {
-        setInputError("Digite o autor ");
+        setInputError("Digite seu login do github");
         return;
       }
 
