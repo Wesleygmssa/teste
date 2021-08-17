@@ -1,10 +1,10 @@
 <h3 align="center">
  Nextjs
 </h3>
-<!-- 
+
 <p align="center">
    <img src="devs_ok.gif" >
-</p> -->
+</p>
 
 ### :computer: How To Run
 
